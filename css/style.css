@@ -19,14 +19,14 @@ body {
     min-height: 100vh;
   }
 
-  .contenidoPrincipal{ 
+  .card{ 
     background-color: white;
     padding: 1rem;
     border-radius: 20px;
    
  } 
 
-  .contenidoPrincipal-qr{
+  .card--qr{
     border-radius: 20px;
     max-width: 20.5rem 
   }
