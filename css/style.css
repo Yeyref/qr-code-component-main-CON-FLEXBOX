@@ -26,7 +26,7 @@ body {
    
  } 
 
-  .card--qr{
+  .card__qr{
     border-radius: 20px;
     max-width: 20.5rem 
   }
